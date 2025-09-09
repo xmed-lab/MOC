@@ -1,0 +1,78 @@
+{
+    "0": {
+        "classnames": {
+            "Glioblastoma, IDH-wildtype": [
+                "Glioblastoma, IDH-wildtype"
+            ],
+            "Pilocytic astrocytoma": [
+                "Pilocytic astrocytoma"
+            ],
+            "Meningothelial meningioma": [
+                "Meningothelial meningioma"
+            ],
+            "Pituitary adenoma": [
+                "Pituitary adenoma"
+            ],
+            "Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted": [
+                "Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted"
+            ],
+            "Haemangioblastoma": [
+                "Haemangioblastoma"
+            ],
+            "Ganglioglioma": [
+                "Ganglioglioma"
+            ],
+            "Adamantinomatous craniopharyngioma": [
+                "Adamantinomatous craniopharyngioma"
+            ],
+            "Oligodendroglioma, IDH-mutant and 1p/19q codeleted": [
+                "Oligodendroglioma, IDH-mutant and 1p/19q codeleted"
+            ],
+            "Atypical meningioma": [
+                "Atypical meningioma"
+            ],
+            "Schwannoma": [
+                "Schwannoma"
+            ],
+            "Diffuse astrocytoma, IDH-mutant": [
+                "Diffuse astrocytoma, IDH-mutant"
+            ],
+            "Stroma": [
+                "stromal tissue"
+            ],
+            "Inflammation": [
+                "inflammatory tissue"
+            ],
+            "Vascular": [
+                "vascular tissue"
+            ],
+            "Necrosis": [
+                "necrotic tissue"
+            ]
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "this is CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME is present.",
+            "an H&E stained image of CLASSNAME.",
+            "an H&E stained image showing CLASSNAME.",
+            "an H&E image showing CLASSNAME.",
+            "an H&E image of CLASSNAME.",
+            "CLASSNAME, H&E stain.",
+            "CLASSNAME, H&E."
+        ]
+    }
+}

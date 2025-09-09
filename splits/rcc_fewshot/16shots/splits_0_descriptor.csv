@@ -1,0 +1,4 @@
+,train,val,test
+KICH,18,25,74
+KIRC,16,20,70
+KIRP,16,20,78

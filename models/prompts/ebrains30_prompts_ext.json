@@ -1,0 +1,132 @@
+{
+    "0": {
+        "classnames": {
+            "Glioblastoma, IDH-wildtype": [
+                "Glioblastoma, IDH-wildtype"
+            ],
+            "Pilocytic astrocytoma": [
+                "Pilocytic astrocytoma"
+            ],
+            "Meningothelial meningioma": [
+                "Meningothelial meningioma"
+            ],
+            "Pituitary adenoma": [
+                "Pituitary adenoma"
+            ],
+            "Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted": [
+                "Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted"
+            ],
+            "Haemangioblastoma": [
+                "Haemangioblastoma"
+            ],
+            "Ganglioglioma": [
+                "Ganglioglioma"
+            ],
+            "Adamantinomatous craniopharyngioma": [
+                "Adamantinomatous craniopharyngioma"
+            ],
+            "Oligodendroglioma, IDH-mutant and 1p/19q codeleted": [
+                "Oligodendroglioma, IDH-mutant and 1p/19q codeleted"
+            ],
+            "Atypical meningioma": [
+                "Atypical meningioma"
+            ],
+            "Schwannoma": [
+                "Schwannoma"
+            ],
+            "Diffuse astrocytoma, IDH-mutant": [
+                "Diffuse astrocytoma, IDH-mutant"
+            ],
+            "Transitional meningioma": [
+                "Transitional meningioma"
+            ],
+            "Diffuse large B-cell lymphoma of the CNS": [
+                "Diffuse large B-cell lymphoma of the CNS"
+            ],
+            "Gliosarcoma": [
+                "Gliosarcoma"
+            ],
+            "Fibrous meningioma": [
+                "Fibrous meningioma"
+            ],
+            "Anaplastic ependymoma": [
+                "Anaplastic ependymoma"
+            ],
+            "Anaplastic astrocytoma, IDH-mutant": [
+                "Anaplastic astrocytoma, IDH-mutant"
+            ],
+            "Anaplastic astrocytoma, IDH-wildtype": [
+                "Anaplastic astrocytoma, IDH-wildtype"
+            ],
+            "Metastatic tumours": [
+                "Metastatic tumours"
+            ],
+            "Ependymoma": [
+                "Ependymoma"
+            ],
+            "Anaplastic meningioma": [
+                "Anaplastic meningioma"
+            ],
+            "Secretory meningioma": [
+                "Secretory meningioma"
+            ],
+            "Lipoma": [
+                "Lipoma"
+            ],
+            "Glioblastoma, IDH-mutant": [
+                "Glioblastoma, IDH-mutant"
+            ],
+            "Haemangiopericytoma": [
+                "Haemangiopericytoma"
+            ],
+            "Langerhans cell histiocytosis": [
+                "Langerhans cell histiocytosis"
+            ],
+            "Medulloblastoma, non-WNT/non-SHH": [
+                "Medulloblastoma, non-WNT/non-SHH"
+            ],
+            "Angiomatous meningioma": [
+                "Angiomatous meningioma"
+            ],
+            "Haemangioma": [
+                "Haemangioma"
+            ],
+            "Stroma": [
+                "stromal tissue"
+            ],
+            "Inflammation": [
+                "inflammatory tissue"
+            ],
+            "Vascular": [
+                "vascular tissue"
+            ],
+            "Necrosis": [
+                "necrotic tissue"
+            ]
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "this is CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME is present.",
+            "an H&E stained image of CLASSNAME.",
+            "an H&E stained image showing CLASSNAME.",
+            "an H&E image showing CLASSNAME.",
+            "an H&E image of CLASSNAME.",
+            "CLASSNAME, H&E stain.",
+            "CLASSNAME, H&E."
+        ]
+    }
+}

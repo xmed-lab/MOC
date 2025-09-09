@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data and results folders
+data/
+results/
+classifier_weights/
