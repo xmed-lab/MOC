@@ -1,4 +1,4 @@
-# MOC: Meta-Optimized Classifier
+# (MICCAI 2025) MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.09967-b31b1b.svg)](https://www.arxiv.org/abs/2508.09967)
 
